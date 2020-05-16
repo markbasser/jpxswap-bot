@@ -1,8 +1,9 @@
 from discord.ext import commands
+from discord.ext import tasks
 import os
 import traceback
 import discord
-import random  # おみくじで使用
+from datetime import datetime 
 
 bot = commands.Bot(command_prefix='/')
 
