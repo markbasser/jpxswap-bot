@@ -32,30 +32,30 @@ async def loop():
     now = datetime.now().strftime('%H:%M')
     
     
-    if now == '04:15':
+    if now == '06:15':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('［@SWAP］このBOTでJPYN<:JPYNdisco:698471276498649168> をJPX<:jpxdis1:710400520434745425> にスワップ出来ます。\n【 /tip jpyn ●00 <@707133263562670140>】【 /tip jpyn ●00 @SWAP 】ただし、100JPYN × 整数倍数（1～10まで）のみになっています。\n例えば、[ /tip JPYN 200 <@707133263562670140> ]ならば0.0002JPX で自動交換されます。\nTipの小数点以下や、1JPYN～9JPYNはBOTは読み込みません。注意して下さい。\n不具合や不都合あれば、画面のスクリーンショットを撮り、それをもってDMやChatで報告して下さい。')  
+        await channel.send(':flag_jp: \n :cyclone:［@SWAP］このBOTでJPYN<:JPYNdisco:698471276498649168> をJPX<:jpxdis1:710400520434745425> にスワップ出来ます。\n【 /tip jpyn ●00 <@707133263562670140>】←@SWAPのメンションの後に余計なテキストや絵文字は入れないで下さい。\n【 /tip jpyn ●00 @SWAP 】ただし、100JPYN × 整数倍数（1～10まで）のみになっています。\n例えば、[ /tip JPYN 200 <@707133263562670140> ]ならば0.0002JPX で自動交換されます。\nTipの小数点以下や、1JPYN～9JPYNはBOTは読み込みません。注意して下さい。\n不具合や不都合あれば、画面のスクリーンショットを撮り、それをもってDMやChatで報告して下さい。')  
 
-    if now == '04:16':
+    if now == '06:16':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('[@SWAP] You can swap JPYN<:JPYNdisco:698471276498649168>  to JPX<:jpxdis1:710400520434745425> with this BOT. \n[/ Tip jpyn ●00 <@ 707133263562670140>】 [/ tip jpyn ●00 @SWAP】 However, only 100JPYN × integer multiples (1 to 10) are available.\n For example, [/ tip JPYN 200 <@ 707133263562670140>] will be replaced automatically at 0.0002JPX.\n BOT cannot be read below the decimal point of Tip or from 1JPYN to 9JPYN. be careful. \n If there is a problem or inconvenience, please take a screenshot of the screen and report it with DM or Chat.')
+        await channel.send(':flag_gb: \n :cyclone: [@SWAP] You can swap JPYN<:JPYNdisco:698471276498649168>  to JPX<:jpxdis1:710400520434745425> with this BOT. \n[/ Tip jpyn ●00 <@ 707133263562670140>】← Please do not put extra text or pictograms after @SWAP mention. \n[/ tip jpyn ●00 @SWAP】 However, only 100JPYN × integer multiples (1 to 10) are available.\n For example, [/ tip JPYN 200 <@ 707133263562670140>] will be replaced automatically at 0.0002JPX.\n BOT cannot be read below the decimal point of Tip or from 1JPYN to 9JPYN. be careful. \n If there is a problem or inconvenience, please take a screenshot of the screen and report it with DM or Chat.')
 
     if now == '07:19':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:jpxdis1:710400520434745425>✨')   
 
-    if now == '10:15':
+    if now == '11:15':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('［@SWAP］このBOTでJPYN<:JPYNdisco:698471276498649168> をJPX<:jpxdis1:710400520434745425> にスワップ出来ます。\n【 /tip jpyn ●00 <@707133263562670140>】【 /tip jpyn ●00 @SWAP 】ただし、100JPYN × 整数倍数（1～10まで）のみになっています。\n例えば、[ /tip JPYN 200 <@707133263562670140> ]ならば0.0002JPX で自動交換されます。\nTipの小数点以下や、1JPYN～9JPYNはBOTは読み込みません。注意して下さい。\n不具合や不都合あれば、画面のスクリーンショットを撮り、それをもってDMやChatで報告して下さい!👋')  
+        await channel.send(':flag_jp: \n :cyclone:［@SWAP］このBOTでJPYN<:JPYNdisco:698471276498649168> をJPX<:jpxdis1:710400520434745425> にスワップ出来ます。\n【 /tip jpyn ●00 <@707133263562670140>】←@SWAPのメンションの後に余計なテキストや絵文字は入れないで下さい。\n【 /tip jpyn ●00 @SWAP 】ただし、100JPYN × 整数倍数（1～10まで）のみになっています。\n例えば、[ /tip JPYN 200 <@707133263562670140> ]ならば0.0002JPX で自動交換されます。\nTipの小数点以下や、1JPYN～9JPYNはBOTは読み込みません。注意して下さい。\n不具合や不都合あれば、画面のスクリーンショットを撮り、それをもってDMやChatで報告して下さい!👋')  
 
-    if now == '10:16':
+    if now == '11:16':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('[@SWAP] You can swap JPYN<:JPYNdisco:698471276498649168>  to JPX<:jpxdis1:710400520434745425> with this BOT. \n[/ Tip jpyn ●00 <@ 707133263562670140> 】 [/ tip jpyn ●00 @SWAP】 However, only 100JPYN × integer multiples (1 to 10) are available.\n For example, [/ tip JPYN 200 <@ 707133263562670140>] will be replaced automatically at 0.0002JPX.\n BOT cannot be read below the decimal point of Tip or from 1JPYN to 9JPYN. be careful. \n If there is a problem or inconvenience, please take a screenshot of the screen and report it with DM or Chat.') 
+        await channel.send(':flag_gb: \n:cyclone: [@SWAP] You can swap JPYN<:JPYNdisco:698471276498649168>  to JPX<:jpxdis1:710400520434745425> with this BOT. \n[/ Tip jpyn ●00 <@ 707133263562670140> 】← Please do not put extra text or pictograms after @SWAP mention. \n[/ tip jpyn ●00 @SWAP】 However, only 100JPYN × integer multiples (1 to 10) are available.\n For example, [/ tip JPYN 200 <@ 707133263562670140>] will be replaced automatically at 0.0002JPX.\n BOT cannot be read below the decimal point of Tip or from 1JPYN to 9JPYN. be careful. \n If there is a problem or inconvenience, please take a screenshot of the screen and report it with DM or Chat.') 
 
 
-    if now == '10:55':
+    if now == '11:55':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('<:jpxdis1:710400520434745425>👋')  
+        await channel.send(':partying_face:<:jpxdis1:710400520434745425>👋')  
 
     if now == '14:12':
         channel = client.get_channel(CHANNEL_ID)
@@ -63,7 +63,7 @@ async def loop():
 
     if now == '15:19':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('<:jpxdis1:710400520434745425>✨')   
+        await channel.send(':partying_face:<:jpxdis1:710400520434745425>✨')   
 
     if now == '19:51':
         channel = client.get_channel(CHANNEL_ID)
@@ -75,7 +75,7 @@ async def loop():
 
     if now == '21:02':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('$tip online 0.001 btt')
+        await channel.send(':partying_face:')
         
 #ループ処理実行
 loop.start()
@@ -111,18 +111,18 @@ async def on_message(message):
         # チャンネルへメッセージを送信
         await message.channel.send(f"(((o(*ﾟ▽ﾟ*)o)))ワロタ")  # f文字列（フォーマット済み文字列リテラル）
         
-    if message.content == "ヾ(*´∀｀*)ﾉ":
+    if message.content == "SWAP":
         # チャンネルへメッセージを送信
-        await message.channel.send(f"(❁´ω`❁) ✧٩(ˊωˋ*)و✧")  # f文字列（フォーマット済み文字列リテラル）
+        await message.channel.send(f":cyclone:)  # f文字列（フォーマット済み文字列リテラル）
 
-    if message.content == "ありがとうございます":
+    if message.content == "ありがとうございました。":
         # チャンネルへメッセージを送信
-        await message.channel.send(f"/tip bgpt 800000 {message.author.mention}さん ☆I am the one who should thank you☆")  # f文字列（フォーマット済み文字列リテラル）
+        await message.channel.send(f"/tip JPYN 11.4 {message.author.mention}  さん \n ✨☆I am the one who should thank you☆✨")  # f文字列（フォーマット済み文字列リテラル）
         
 
-    if message.content == "ありがとう！":
+    if message.content == "ありがとう":
         # チャンネルへメッセージを送信
-        await message.channel.send(f"{message.author.mention}さん　I am the one who should thank you～☆" )  # f文字列（フォーマット済み文字列リテラル）
+        await message.channel.send(f"/tip JPYN 11.4 {message.author.mention} 　さん　\n ✨💜I am the one who should thank you～💜✨" )  # f文字列（フォーマット済み文字列リテラル）
 
         
     
