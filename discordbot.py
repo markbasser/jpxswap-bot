@@ -9,7 +9,7 @@ bot = commands.Bot(command_prefix='/')
 
 token = os.environ['DISCORD_BOT_TOKEN']
 
-CHANNEL_ID =709712529613389875  #チャンネルID
+CHANNEL_ID =699552128066125885  #チャンネルID
 
 
 # 接続に必要なオブジェクトを生成
