@@ -113,7 +113,7 @@ async def on_message(message):
         
     if message.content == "SWAP":
         # チャンネルへメッセージを送信
-        await message.channel.send(f":cyclone:)  # f文字列（フォーマット済み文字列リテラル）
+        await message.channel.send(f":cyclone:")  # f文字列（フォーマット済み文字列リテラル）
 
     if message.content == "ありがとうございました。":
         # チャンネルへメッセージを送信
