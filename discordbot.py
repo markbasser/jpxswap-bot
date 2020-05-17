@@ -34,11 +34,11 @@ async def loop():
     
     if now == '04:15':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('［@SWAP］このBOTでJPYN<:JPYNdisco:698471276498649168> をJPX<:jpxdis1:710400520434745425> にスワップ出来ます。\n【 /tip jpyn ●00 <@707133263562670140 】【 /tip jpyn ●00 @SWAP 】ただし、100JPYN × 整数倍数（1～10まで）のみになっています。\n例えば、[ /tip JPYN 200 <@707133263562670140> ]ならば0.0002JPX で自動交換されます。\nTipの小数点以下や、1JPYN～9JPYNはBOTは読み込みません。注意して下さい。\n不具合や不都合あれば、画面のスクリーンショットを撮り、それをもってDMやChatで報告して下さい。')  
+        await channel.send('［@SWAP］このBOTでJPYN<:JPYNdisco:698471276498649168> をJPX<:jpxdis1:710400520434745425> にスワップ出来ます。\n【 /tip jpyn ●00 <@707133263562670140>】【 /tip jpyn ●00 @SWAP 】ただし、100JPYN × 整数倍数（1～10まで）のみになっています。\n例えば、[ /tip JPYN 200 <@707133263562670140> ]ならば0.0002JPX で自動交換されます。\nTipの小数点以下や、1JPYN～9JPYNはBOTは読み込みません。注意して下さい。\n不具合や不都合あれば、画面のスクリーンショットを撮り、それをもってDMやChatで報告して下さい。')  
 
     if now == '04:16':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('[@SWAP] You can swap JPYN<:JPYNdisco:698471276498649168>  to JPX<:jpxdis1:710400520434745425> with this BOT. \n[/ Tip jpyn ●00 <@ 707133263562670140】 [/ tip jpyn ●00 @SWAP】 However, only 100JPYN × integer multiples (1 to 10) are available.\n For example, [/ tip JPYN 200 <@ 707133263562670140>] will be replaced automatically at 0.0002JPX.\n BOT cannot be read below the decimal point of Tip or from 1JPYN to 9JPYN. be careful. \n If there is a problem or inconvenience, please take a screenshot of the screen and report it with DM or Chat.')
+        await channel.send('[@SWAP] You can swap JPYN<:JPYNdisco:698471276498649168>  to JPX<:jpxdis1:710400520434745425> with this BOT. \n[/ Tip jpyn ●00 <@ 707133263562670140>】 [/ tip jpyn ●00 @SWAP】 However, only 100JPYN × integer multiples (1 to 10) are available.\n For example, [/ tip JPYN 200 <@ 707133263562670140>] will be replaced automatically at 0.0002JPX.\n BOT cannot be read below the decimal point of Tip or from 1JPYN to 9JPYN. be careful. \n If there is a problem or inconvenience, please take a screenshot of the screen and report it with DM or Chat.')
 
     if now == '07:19':
         channel = client.get_channel(CHANNEL_ID)
@@ -46,11 +46,11 @@ async def loop():
 
     if now == '10:15':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('［@SWAP］このBOTでJPYN<:JPYNdisco:698471276498649168> をJPX<:jpxdis1:710400520434745425> にスワップ出来ます。\n【 /tip jpyn ●00 <@707133263562670140 】【 /tip jpyn ●00 @SWAP 】ただし、100JPYN × 整数倍数（1～10まで）のみになっています。\n例えば、[ /tip JPYN 200 <@707133263562670140> ]ならば0.0002JPX で自動交換されます。\nTipの小数点以下や、1JPYN～9JPYNはBOTは読み込みません。注意して下さい。\n不具合や不都合あれば、画面のスクリーンショットを撮り、それをもってDMやChatで報告して下さい!👋')  
+        await channel.send('［@SWAP］このBOTでJPYN<:JPYNdisco:698471276498649168> をJPX<:jpxdis1:710400520434745425> にスワップ出来ます。\n【 /tip jpyn ●00 <@707133263562670140>】【 /tip jpyn ●00 @SWAP 】ただし、100JPYN × 整数倍数（1～10まで）のみになっています。\n例えば、[ /tip JPYN 200 <@707133263562670140> ]ならば0.0002JPX で自動交換されます。\nTipの小数点以下や、1JPYN～9JPYNはBOTは読み込みません。注意して下さい。\n不具合や不都合あれば、画面のスクリーンショットを撮り、それをもってDMやChatで報告して下さい!👋')  
 
     if now == '10:16':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('[@SWAP] You can swap JPYN<:JPYNdisco:698471276498649168>  to JPX<:jpxdis1:710400520434745425> with this BOT. \n[/ Tip jpyn ●00 <@ 707133263562670140】 [/ tip jpyn ●00 @SWAP】 However, only 100JPYN × integer multiples (1 to 10) are available.\n For example, [/ tip JPYN 200 <@ 707133263562670140>] will be replaced automatically at 0.0002JPX.\n BOT cannot be read below the decimal point of Tip or from 1JPYN to 9JPYN. be careful. \n If there is a problem or inconvenience, please take a screenshot of the screen and report it with DM or Chat.') 
+        await channel.send('[@SWAP] You can swap JPYN<:JPYNdisco:698471276498649168>  to JPX<:jpxdis1:710400520434745425> with this BOT. \n[/ Tip jpyn ●00 <@ 707133263562670140> 】 [/ tip jpyn ●00 @SWAP】 However, only 100JPYN × integer multiples (1 to 10) are available.\n For example, [/ tip JPYN 200 <@ 707133263562670140>] will be replaced automatically at 0.0002JPX.\n BOT cannot be read below the decimal point of Tip or from 1JPYN to 9JPYN. be careful. \n If there is a problem or inconvenience, please take a screenshot of the screen and report it with DM or Chat.') 
 
 
     if now == '10:55':
